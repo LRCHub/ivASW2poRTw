@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Damn",
+  "base_artist": "MonyHorse",
+  "createdAt": "2025-12-17T09:23:02.854215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/01_About_Damn_Time_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Damn Strait",
+      "artist": "Scotty McCreery",
+      "has_synced": true,
+      "path": "select/02_Damn_Strait_Scotty_McCreery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Much Too Young (To Feel This Damn Old)",
+      "artist": "Brooks Jefferson",
+      "has_synced": false,
+      "path": "select/03_Much_Too_Young_(To_Feel_This_Damn_Old)_Brooks_Jefferson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Damn I Wish I Was Your Lover",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": true,
+      "path": "select/04_Damn_I_Wish_I_Was_Your_Lover_Sophie_B._Hawkins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Best Damn Thing",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/05_The_Best_Damn_Thing_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Damn Me",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/06_Don't_Damn_Me_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bout Damn Time",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/07_Bout_Damn_Time_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pillen - Prod. Damn Rich aka Plug Man",
+      "artist": "Yung Hurn",
+      "has_synced": false,
+      "path": "select/08_Pillen_-_Prod._Damn_Rich_aka_Plug_Man_Yung_Hurn.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Damn Son",
+      "artist": "Le1f",
+      "has_synced": false,
+      "path": "select/09_Damn_Son_Le1f.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Damn Son (produced by Shy Guy)",
+      "artist": "Le1f",
+      "has_synced": false,
+      "path": "select/10_Damn_Son_(produced_by_Shy_Guy)_Le1f.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Damn 92",
+      "artist": "Las Robertas",
+      "has_synced": true,
+      "path": "select/11_Damn_92_Las_Robertas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Damn Dog",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/12_Damn_Dog_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Damn the Circumstances",
+      "artist": "Madeleine Peyroux",
+      "has_synced": true,
+      "path": "select/13_Damn_the_Circumstances_Madeleine_Peyroux.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Damn Your Eyes",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/14_Damn_Your_Eyes_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Damn Your Eyes",
+      "artist": "Sinead O'Connor",
+      "has_synced": false,
+      "path": "select/15_Damn_Your_Eyes_Sinead_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Damn the Machine",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/16_Damn_the_Machine_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Damn",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/17_Damn_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bless You (Save You, Spare You, Damn You)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/18_Bless_You_(Save_You,_Spare_You,_Damn_You)_The_Stranglers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Damn (feat. LEX)",
+      "artist": "MonyHorse",
+      "has_synced": false,
+      "path": "select/pl_01_Damn_(feat._LEX)_MonyHorse.txt"
+    }
+  ]
+}
